@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/antoine/Documents/GitProjects/Bitbucket.org/traitementfichiermp3/TraitementFichierMp3/TraitementFichierMp3.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

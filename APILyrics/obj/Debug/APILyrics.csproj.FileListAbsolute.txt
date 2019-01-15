@@ -1,0 +1,22 @@
+c:/users/antoine/documents/visual studio 2012/Projects/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.dll
+c:/users/antoine/documents/visual studio 2012/Projects/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.pdb
+c:/users/antoine/documents/visual studio 2012/Projects/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.csprojResolveAssemblyReference.cache
+c:/users/antoine/documents/visual studio 2012/Projects/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.dll
+c:/users/antoine/documents/visual studio 2012/Projects/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.pdb
+D:/Documents/Projets C#/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.dll
+D:/Documents/Projets C#/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.pdb
+D:/Documents/Projets C#/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.csprojResolveAssemblyReference.cache
+D:/Documents/Projets C#/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.dll
+D:/Documents/Projets C#/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.pdb
+H:/Documents/Projets C#/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.dll
+H:/Documents/Projets C#/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.pdb
+H:/Documents/Projets C#/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.csprojResolveAssemblyReference.cache
+H:/Documents/Projets C#/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.dll
+H:/Documents/Projets C#/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.pdb
+C:/Users/Antoine/Music/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.dll
+C:/Users/Antoine/Music/TraitementFichierMp3/APILyrics/bin/Debug/APILyrics.pdb
+C:/Users/Antoine/Music/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.csprojResolveAssemblyReference.cache
+C:/Users/Antoine/Music/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.dll
+C:/Users/Antoine/Music/TraitementFichierMp3/APILyrics/obj/Debug/APILyrics.pdb
+/Users/antoine/Documents/GitProjects/Bitbucket.org/traitementfichiermp3/APILyrics/obj/Debug/APILyrics.dll
+/Users/antoine/Documents/GitProjects/Bitbucket.org/traitementfichiermp3/APILyrics/obj/Debug/APILyrics.pdb

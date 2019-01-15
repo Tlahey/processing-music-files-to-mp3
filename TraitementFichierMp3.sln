@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraitementFichierMp3", "TraitementFichierMp3\TraitementFichierMp3.csproj", "{B08A4FC0-BD3B-4AC5-86FA-6BDA4ED7A9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APILyrics", "APILyrics\APILyrics.csproj", "{4E31AD77-BAA6-411A-A48F-517A13550DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAudioConverter", "APIAudioConverter\APIAudioConverter.csproj", "{47A29F44-845B-4E8D-AA4E-CE9611B78865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08A4FC0-BD3B-4AC5-86FA-6BDA4ED7A9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08A4FC0-BD3B-4AC5-86FA-6BDA4ED7A9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08A4FC0-BD3B-4AC5-86FA-6BDA4ED7A9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08A4FC0-BD3B-4AC5-86FA-6BDA4ED7A9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E31AD77-BAA6-411A-A48F-517A13550DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E31AD77-BAA6-411A-A48F-517A13550DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E31AD77-BAA6-411A-A48F-517A13550DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E31AD77-BAA6-411A-A48F-517A13550DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A29F44-845B-4E8D-AA4E-CE9611B78865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A29F44-845B-4E8D-AA4E-CE9611B78865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A29F44-845B-4E8D-AA4E-CE9611B78865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A29F44-845B-4E8D-AA4E-CE9611B78865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

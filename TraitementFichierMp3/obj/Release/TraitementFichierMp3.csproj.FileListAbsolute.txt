@@ -1,0 +1,40 @@
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\TraitementFichierMp3.exe.config
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\ffmpeg.exe
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\libmp3lame.32.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\libmp3lame.64.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\TraitementFichierMp3.exe
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\TraitementFichierMp3.pdb
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APIAudioConverter.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APILyrics.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\policy.2.0.taglib-sharp.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\taglib-sharp.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.Lame.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.WindowsMediaFormat.dll
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APIAudioConverter.pdb
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APILyrics.pdb
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.xml
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\bin\Release\policy.2.0.taglib-sharp.config
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\obj\Release\TraitementFichierMp3.csprojResolveAssemblyReference.cache
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\obj\Release\TraitementFichierMp3.exe
+H:\Documents\Projets C#\TraitementFichierMp3\TraitementFichierMp3\obj\Release\TraitementFichierMp3.pdb
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\TraitementFichierMp3.exe.config
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\obj\Release\TraitementFichierMp3.exe
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\obj\Release\TraitementFichierMp3.pdb
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\ffmpeg.exe
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\libmp3lame.32.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\libmp3lame.64.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\TraitementFichierMp3.exe
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\TraitementFichierMp3.pdb
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APIAudioConverter.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APILyrics.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\taglib-sharp.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.Lame.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APIAudioConverter.pdb
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\APILyrics.pdb
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\NAudio.xml
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Antoine\Music\TraitementFichierMp3\TraitementFichierMp3\obj\Release\TraitementFichierMp3.csprojResolveAssemblyReference.cache
