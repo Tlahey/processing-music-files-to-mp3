@@ -22,7 +22,7 @@ Change config file `TraitementFichierMp3.exe.config`
         <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
     </startup>
     <appSettings>
-      <add key="musiqueDirectory" value="C:\Users\Antoine\Music\A mettre sur le NAS"/>
+      <add key="musiqueDirectory" value="C:\Users\Antoine\Music\"/>
       <add key="formatFile" value="{track} - {title}"/>
       <add key="savePath" value="c:\temp\logTraitementmp3.txt"/>
       <add key="searchFiles" value="*.mp3,*.wma,*.m4a,*.flac"/>
